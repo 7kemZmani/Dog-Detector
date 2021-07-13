@@ -1,6 +1,9 @@
+.ipynb_checkpoints/
+.vscode/
 ImagesCustom/
 lfw/
 dogImages/
+skimage/
 *.zip
 *.tgz
 N9.ipynb
